@@ -1,0 +1,10 @@
+djangorestframework
+django-cors-headers
+mysqlclient
+djangorestframework-simplejwt
+python-docx
+pydub
+moviepy
+langchain
+langchain_google_genai
+requests
